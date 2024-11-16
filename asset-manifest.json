@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/god/static/css/main.fcd47893.css",
+    "main.js": "/god/static/js/main.c1a820f3.js",
+    "static/js/453.f3cef672.chunk.js": "/god/static/js/453.f3cef672.chunk.js",
+    "index.html": "/god/index.html",
+    "main.fcd47893.css.map": "/god/static/css/main.fcd47893.css.map",
+    "main.c1a820f3.js.map": "/god/static/js/main.c1a820f3.js.map",
+    "453.f3cef672.chunk.js.map": "/god/static/js/453.f3cef672.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd47893.css",
+    "static/js/main.c1a820f3.js"
+  ]
+}
